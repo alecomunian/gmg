@@ -12,6 +12,9 @@ please use the following button:
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/alecomunian/gmg/HEAD)
 
 
+[!WARNING] This repository is work in progress and the content will be updated quite frequently.
+
+
 
 
 

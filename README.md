@@ -1,4 +1,4 @@
-# gng
+# gmg
 
 This is a public repository for the course of Geostatistical methods
 for geophysics.  It contains some Jupyter Notebooks to explore the

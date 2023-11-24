@@ -1,0 +1,12 @@
+#!/bin/bash
+#
+# This is the postBuild file of the repository "gmg".
+#
+
+# Install the geone module, unfortunately unavailabe through pip
+git clone https://github.com/randlab/geone.git
+cd geone
+pip install .
+
+# Move back to the home folder.
+cd

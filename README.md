@@ -10,14 +10,14 @@ The folder `notebooks` and its sub-folder contain some Jupyter
 Notebooks regrouped by topic. By navigating into the folders and
 selecting a notebook, you can visualize a *static* version of the
 notebook and the corresponding results/plots. If you want to interact
-with the script, you can donwload the notebook in your local machine,
-and use `Jupyter Notebook` to open it in your favourite browser. To
-download the notebook, you can for example select the"download raw
-file" button that you can find on the right top corner of the github
-page.
+with the script, you can download the notebook in your local machine,
+and use `Jupyter Notebook` to open it in your favorite browser. To
+download the notebook, you can for example select the "download raw
+file" button that you can find on the right top corner of the GitHub
+page of the specified notebook.
 
 Alternatively, if you don't have any Python installation on your
-computer or if your cofiguration does not allow to run some scripts,
+computer or if your configuration does not allow to run some scripts,
 please use the corresponding Binder instance (see the next section for
 more info).
 

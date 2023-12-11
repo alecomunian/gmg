@@ -165,3 +165,7 @@ cython_debug/
 
 notebooks/simulation/ex_geosclassic_indicator_2d.ipynb
 notebooks/simulation/ex_pgs.ipynb
+
+# Do not include the VTK output.
+notebooks/simulation/PGS_T1.vtk
+notebooks/simulation/PGS_Z.vtk

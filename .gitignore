@@ -169,3 +169,10 @@ notebooks/simulation/ex_pgs.ipynb
 # Do not include the VTK output.
 notebooks/simulation/PGS_T1.vtk
 notebooks/simulation/PGS_Z.vtk
+notebooks/simulation/PGS_Z.vti
+
+
+notebooks/simulation/hd.vti
+notebooks/simulation/ti3d.vti
+notebooks/simulation/mps03_3D_sim.vti
+

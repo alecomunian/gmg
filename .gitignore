@@ -171,8 +171,10 @@ notebooks/simulation/PGS_T1.vtk
 notebooks/simulation/PGS_Z.vtk
 notebooks/simulation/PGS_Z.vti
 
-
+# Big files
 notebooks/simulation/hd.vti
 notebooks/simulation/ti3d.vti
 notebooks/simulation/mps03_3D_sim.vti
+notebooks/simulation/flumy.vti
+
 
